@@ -1,5 +1,7 @@
 ### Stoplight
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kumavis/flow-stoplight.svg)](https://greenkeeper.io/)
+
 A simple flow control mechanism.
 
 Has two modes: "go" and "stop".
